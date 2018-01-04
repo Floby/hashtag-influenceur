@@ -1,83 +1,83 @@
-name;points
-des parts de marché;1
-l'idéation;1
-l'industrie 4.0;1
-l'innovation;1
-l'intelligence artificielle;1
-l'IoT;1
-la blockchain;1
-la comitologie;1
-la data;1
-la digitalisation;1
-la liberté d'entreprendre;1
-la méditation;1
-la plateforme;1
-la réorg';1
-une startup;1
-la transformation digitale;1
-le big data;1
-le cloud;1
-le datalake;1
-le deep learning;1
-le devops;1
-le DevSecOps;1
-le droit à l'erreur;1
-le growth hacking;1
-le kanban;1
-le phygital;1
-le responsive design;1
-le running;1
-le standup;1
-le time to market;1
-les femmes;1
-les hommes;1
-les micro-services;1
-les objectifs annuels;1
-les voitures autonomes;1
-ma femme / mon mari;1
-mes enfants;1
-"un article de référence (+objet bonus avec ""sur"")";1
-un call ;1
-un déj';1
-un partenariat stratégique;1
-un podcast;1
-un semi-marathon;1
-un talk;1
-une bière;1
-une conférence;1
-une formation;1
-une séance de running;1
-mon job;1
-une licorne;1
-le wording;1
-les digital natives;1
-les millenials;1
-le datawarehouse;1
-le cash flow;1
-tech-*;1
-les tech-buzzwords;1
-la startup nation;1
-le workflow assembly;1
-la productivité;1
-une séance de crossfit;1
-l'e-bracelet;1
-le bitcoin;1
-la crypto-monnaie;1
-la deadline;1
-un smoothie kiwi;1
-les KPI;1
-les logs;1
-un TED Talk;1
-Babar;-1
-la poudre de perlimpimpim;-1
-la station mairie de montreuil;-1
-le darknet;-1
-les petits d'jeuns qui n'en veulent;-1
-les pets des vaches;-1
-les subventions européennes;-1
-un avenant;-1
-un dépotoir;-1
-une banane;-1
-ton N+1;-1
-ton N+2;-1
-ton N+3;-1
+name,points
+des parts de marché,1
+l'idéation,1
+l'industrie 4.0,1
+l'innovation,1
+l'intelligence artificielle,1
+l'IoT,1
+la blockchain,1
+la comitologie,1
+la data,1
+la digitalisation,1
+la liberté d'entreprendre,1
+la méditation,1
+la plateforme,1
+la réorg',1
+une startup,1
+la transformation digitale,1
+le big data,1
+le cloud,1
+le datalake,1
+le deep learning,1
+le devops,1
+le DevSecOps,1
+le droit à l'erreur,1
+le growth hacking,1
+le kanban,1
+le phygital,1
+le responsive design,1
+le running,1
+le standup,1
+le time to market,1
+les femmes,1
+les hommes,1
+les micro-services,1
+les objectifs annuels,1
+les voitures autonomes,1
+ma femme / mon mari,1
+mes enfants,1
+"un article de référence (+objet bonus avec ""sur"")",1
+un call ,1
+un déj',1
+un partenariat stratégique,1
+un podcast,1
+un semi-marathon,1
+un talk,1
+une bière,1
+une conférence,1
+une formation,1
+une séance de running,1
+mon job,1
+une licorne,1
+le wording,1
+les digital natives,1
+les millenials,1
+le datawarehouse,1
+le cash flow,1
+tech-*,1
+les tech-buzzwords,1
+la startup nation,1
+le workflow assembly,1
+la productivité,1
+une séance de crossfit,1
+l'e-bracelet,1
+le bitcoin,1
+la crypto-monnaie,1
+la deadline,1
+un smoothie kiwi,1
+les KPI,1
+les logs,1
+un TED Talk,1
+Babar,-1
+la poudre de perlimpimpim,-1
+la station mairie de montreuil,-1
+le darknet,-1
+les petits d'jeuns qui n'en veulent,-1
+les pets des vaches,-1
+les subventions européennes,-1
+un avenant,-1
+un dépotoir,-1
+une banane,-1
+ton N+1,-1
+ton N+2,-1
+ton N+3,-1
