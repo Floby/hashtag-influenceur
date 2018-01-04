@@ -1,0 +1,8 @@
+<div class="print-action no-print">
+  <button {{action "printCards"}}>Imprimer !</button>
+</div>
+<div class="cards">
+  {{#each model as |card|}}
+      {{display-card card=card class="card"}}
+  {{/each}}
+</div>
