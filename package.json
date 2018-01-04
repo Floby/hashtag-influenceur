@@ -13,7 +13,8 @@
   "scripts": {
     "build": "ember build",
     "start": "node server/bin/server.js",
-    "test": "ember test"
+    "test": "ember test",
+    "heroku-postbuild": "ember build --environment=production"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
